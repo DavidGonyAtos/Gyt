@@ -5,3 +5,4 @@ Console.WriteLine("Hello, World!");
 
 Base uneBase= new Base();   // premières modifications pour premier commit avec création Bases.cs
 uneBase.write();            // premières modifications pour premier commit avec création Bases.cs
+uneBase.writes();            // premières modifications pour tester bracnche refonte
